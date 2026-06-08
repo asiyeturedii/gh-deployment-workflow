@@ -2,7 +2,7 @@
 
 A simple static website automatically deployed to GitHub Pages using GitHub Actions.
 
-🌐 **Live site:** `https://<username>.github.io/gh-deployment-workflow/`
+🌐 **Live site:** `https://asiyeturedii.github.io/gh-deployment-workflow/`
 
 ## What it does
 
